@@ -3,4 +3,4 @@
 * 1-hello_you
 * 2-path
 * 3-paths
-Add script that lists environment variables
+* 4-global_variables
