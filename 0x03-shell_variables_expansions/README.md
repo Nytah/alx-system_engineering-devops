@@ -15,3 +15,4 @@
 * 13-print_float: script that prints a number with two decimal places, followed by a new line
 * 100-decimal_to_hexadecimal: script that converts a number from Base 10 to Base 16
 * 101-rot13: script that encodes text using the rot13 encryption
+* 102-odd: script that prints every other line from the input, starting with the first line
